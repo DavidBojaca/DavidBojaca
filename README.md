@@ -1,7 +1,7 @@
 <h1 align="center"> David Santiago Bojacá  </h1>
 
 <p align="center">
-  <img src="https://st2.depositphotos.com/1001599/43591/v/450/depositphotos_435912208-stock-illustration-cross-platform-development-abstract-concept.jpg" />
+  <img src="https://img.freepik.com/vektoren-kostenlos/ingenieur-und-entwickler-mit-laptop-und-tablet-code-plattformuebergreifende-entwicklung-plattformuebergreifende-betriebssysteme-und-softwareumgebungskonzept-helle-lebendige-violette-isolierte-illustration_335657-312.jpg?w=2000" />
 </p>
 
 <h2> Computing science engineer </h1>
