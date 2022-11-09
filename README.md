@@ -1,7 +1,7 @@
-<h1 align="center"> David Santiago Bojacá  </h1>
+<h1 align="center">Hello, welcome to my github repository👨‍💻</h1>
 
 <p align="center">
-  <img src="https://img.freepik.com/vektoren-kostenlos/ingenieur-und-entwickler-mit-laptop-und-tablet-code-plattformuebergreifende-entwicklung-plattformuebergreifende-betriebssysteme-und-softwareumgebungskonzept-helle-lebendige-violette-isolierte-illustration_335657-312.jpg?w=2000" />
+  <img src="https://appkraft.org/static/imgs/cmps/dev.png" />
 </p>
 
 <h2> Computing science engineer </h1>
